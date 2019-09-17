@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="process.php"></script>
+        <script src="dropzone.js"></script>
+    </head>
+    <body>
+        <form action="process.php" id="my-awesome-dropzone" class="dropzone" method="POST" enctype="multipart/form-data">
+            <input type="hidden" name="uploader" value="true">
+            <input type="file" name="file" value="file">
+            <input type="submit" value="upload" name="submited">
+        </form>
+    </body>
+</html>
