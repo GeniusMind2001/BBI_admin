@@ -1,0 +1,24 @@
+PART A - Functionality
+Login/Logout functionality and security applied to admin page(s) - y
+At least two (2) examples of CRUD implemented in UI - y
+Form validation on client and server side - 1/2 server
+Errors/Notices/Warnings displayed when incorrect action taken - y
+Data in database manipulated as a result of interactions with admin panel - y
+
+PART B - Technology
+Use of an architectural framework - y
+Use a framework for form validation - y
+Use a layout framework - y
+
+PART C - Security
+admin Passwords use one way encryption - y
+Source IP whitelist to restrict access to admin panel
+Test application over HTTPS connection, (screenshot evidence)
+
+
+------------------------------DO LAST --------------------------------------------
+PART D - Metacognition
+Comment on each of the 3rd party frameworks used, why was it chosen
+What other technologies did you investigate in order to settle on a path
+Describe the rules by which your authentication restricts access. Comment in code.
+Describe why you chose this particular encryption technology
